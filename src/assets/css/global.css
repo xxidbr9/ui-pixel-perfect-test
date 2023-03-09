@@ -1,0 +1,49 @@
+:root {
+  --color-primary-blue: rgba(36, 131, 243, 1);
+  --color-primary-blue-dark: rgba(95, 134, 169, 1);
+  --color-primary-blue-30: rgba(174, 211, 244, 1);
+  --color-primary-blue-20: rgba(199, 228, 254, 1);
+  --color-primary-blue-10: rgba(240, 248, 255, 1);
+  --color-base-white: rgba(255, 255, 255, 1);
+  --color-base-white-75: rgba(255, 255, 255, 0.75);
+  --color-base-white-50: rgba(255, 255, 255, 0.5);
+  --color-base-white-25: rgba(255, 255, 255, 0.25);
+  --color-base-black: rgba(0, 0, 0, 1);
+  --color-base-black-20: rgba(0, 0, 0, 0.2);
+  --color-grays-gray-1: rgba(252, 252, 252, 1);
+  --color-grays-gray-2: rgba(250, 250, 250, 1);
+  --color-grays-gray-3: rgba(245, 245, 245, 1);
+  --color-grays-gray-4: rgba(240, 240, 240, 1);
+  --color-grays-gray-5: rgba(237, 237, 237, 1);
+  --color-grays-gray-6: rgba(219, 219, 219, 1);
+  --color-grays-gray-7: rgba(177, 177, 177, 1);
+  --color-grays-gray-8: rgba(132, 132, 132, 1);
+  --color-grays-gray-9: rgba(85, 85, 85, 1);
+  --color-grays-gray-10: rgba(38, 38, 38, 1);
+  --color-colors-red: rgba(249, 110, 110, 1);
+  --color-colors-red-30: rgba(253, 211, 211, 1);
+  --color-colors-red-10: rgba(254, 240, 240, 1);
+  --color-colors-green: rgba(57, 191, 139, 1);
+  --color-colors-green-dark: rgba(80, 154, 125, 1);
+  --color-colors-green-30: rgba(181, 241, 218, 1);
+  --color-colors-green-10: rgba(233, 246, 241, 1);
+  --color-colors-green-5: rgba(242, 249, 246, 1);
+  --color-colors-green-2: rgba(57, 191, 139, 0.02);
+  --color-colors-yellow: rgba(251, 188, 5, 1);
+  --color-colors-yellow-30: rgba(254, 235, 180, 1);
+  --color-colors-purple: rgba(120, 68, 204, 1);
+  --color-colors-purple-dark: rgba(129, 114, 155, 1);
+  --color-colors-purple-30: rgba(215, 199, 240, 1);
+  --color-colors-purple-20: rgba(243, 235, 255, 1);
+  --color-colors-purple-10: rgba(120, 68, 204, 0.1);
+  --color-colors-purple-5: rgba(246, 242, 252, 1);
+  --color-code-comment: rgba(129, 158, 138, 1);
+  --color-code-names: rgba(169, 64, 64, 1);
+}
+
+
+/* Body Base */
+body {
+  font-size: 16px;
+  font-family: "Figtree", sans-serif;
+}

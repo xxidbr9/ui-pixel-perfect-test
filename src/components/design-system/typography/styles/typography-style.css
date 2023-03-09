@@ -1,0 +1,138 @@
+
+.text-big-title {
+  font-size: 2rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+
+/* Heading */
+.text-h-1 {
+  font-size: 2rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-h-2 {
+  font-size: 1.5rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-h-3 {
+  font-size: 1.312rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-h-4 {
+  font-size: 1.125rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-h-5 {
+  font-size: 0.875rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+
+/* Body */
+.text-16-px-sb {
+  font-size: 1rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-16-px {
+  font-size: 1rem;
+  font-family: "Figtree";
+  font-weight: 500;
+  font-style: normal;
+  line-height: 140%;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-16-px-text {
+  font-size: 1rem;
+  font-family: "Figtree";
+  font-weight: 500;
+  font-style: normal;
+  line-height: 160%;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-13-px-b {
+  font-size: 0.812rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-13-px {
+  font-size: 0.812rem;
+  font-family: "Figtree";
+  font-weight: 500;
+  font-style: normal;
+  line-height: 140%;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-11-px-sb {
+  font-size: 0.688rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-11-px {
+  font-size: 0.688rem;
+  font-family: "Figtree";
+  font-weight: 500;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-11-px-text {
+  font-size: 0.688rem;
+  font-family: "Figtree";
+  font-weight: 500;
+  font-style: normal;
+  line-height: 140%;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-10-px-sb {
+  font-size: 0.625rem;
+  font-family: "Figtree";
+  font-weight: 600;
+  font-style: normal;
+  line-height: 11px;
+  text-decoration: none;
+  text-transform: none;
+}
+.text-10-px {
+  font-size: 0.625rem;
+  font-family: "Figtree";
+  font-weight: 500;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}

@@ -1,0 +1,66 @@
+/* Shadow */
+.shadow {
+  box-shadow: 0px 0.25rem 0.75rem rgba(0, 0, 0, 0.06);
+}
+.shadow-medium {
+  box-shadow: 0px 0.5rem 1.5rem rgba(0, 0, 0, 0.08);
+}
+.shadow-big {
+  box-shadow: 0px 0.875rem 2rem rgba(0, 0, 0, 0.12);
+}
+
+/* display */
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+/* Row Gap */
+.gap-y-1 {
+  row-gap: 0.25rem;
+}
+
+.gap-y-2 {
+  row-gap: 0.5rem;
+}
+
+.gap-y-3 {
+  row-gap: 0.75rem;
+}
+
+.gap-y-4 {
+  row-gap: 1rem;
+}
+
+/* Col Gap */
+.gap-x-1 {
+  column-gap: 0.25rem;
+}
+
+.gap-x-2 {
+  cokumn-gap: 0.5rem;
+}
+
+.gap-x-3 {
+  cokumn-gap: 0.75rem;
+}
+
+.gap-x-4 {
+  cokumn-gap: 1rem;
+}
+
