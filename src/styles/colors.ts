@@ -1,4 +1,4 @@
-import type { AllColors } from "@/@types/colors";
+import type { AllColors } from "app/@types/colors";
 
 export const colors: Record<AllColors, string> = {
   // primary

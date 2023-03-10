@@ -1,7 +1,7 @@
 import clsx from 'clsx';
 import { SelectProps } from './select-props'
 import styles from './select.module.css';
-import { DoneCheckIcon, SearchIcon, XCloseCancelIcon } from '@/assets/svg/icons';
+import { DoneCheckIcon, SearchIcon, XCloseCancelIcon } from 'app/assets/svg/icons';
 import { Fragment } from 'react';
 import Input from '../input/input';
 import Typography from '../typography/typography';

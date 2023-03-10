@@ -1,11 +1,11 @@
 import styles from './demo-screen.module.css';
 import clsx from 'clsx';
-import DefaultTemplate from '@/components/export-google-sheet/templates/default';
-import Typography from '@/components/design-system/typography/typography';
-import ConnectAccountTemplate from '@/components/export-google-sheet/templates/connect-account';
-import SelectingTabTemplate from '@/components/export-google-sheet/templates/selecting-tab/selecting-tab';
-import ExportTemplate from '@/components/export-google-sheet/templates/export/export';
-import { AfterExport } from '@/components/export-google-sheet/templates/after-export/after_export.story';
+import DefaultTemplate from 'app/components/export-google-sheet/templates/default';
+import Typography from 'app/components/design-system/typography/typography';
+import ConnectAccountTemplate from 'app/components/export-google-sheet/templates/connect-account';
+import SelectingTabTemplate from 'app/components/export-google-sheet/templates/selecting-tab/selecting-tab';
+import ExportTemplate from 'app/components/export-google-sheet/templates/export/export';
+import { AfterExport } from 'app/components/export-google-sheet/templates/after-export/after_export.story';
 
 
 const DemoScreen = () => {

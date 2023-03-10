@@ -1,6 +1,6 @@
-import { TrashBinDeleteIcon } from '@/assets/svg/icons'
-import Button from '@/components/design-system/button'
-import Typography from '@/components/design-system/typography'
+import { TrashBinDeleteIcon } from 'app/assets/svg/icons'
+import Button from 'app/components/design-system/button'
+import Typography from 'app/components/design-system/typography'
 import Thumbnail from '../thumbnail'
 
 const Header = () => {

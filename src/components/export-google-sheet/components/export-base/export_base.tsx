@@ -1,13 +1,13 @@
 
-import { ArrowDownSmallChevronIcon, GoogleSpreadSheetsIcon } from '@/assets/svg/icons'
-import Card from '@/components/design-system/card'
-import Input from '@/components/design-system/input'
+import { ArrowDownSmallChevronIcon, GoogleSpreadSheetsIcon } from 'app/assets/svg/icons'
+import Card from 'app/components/design-system/card'
+import Input from 'app/components/design-system/input'
 import styles from './export_base.module.css';
-import Typography from '@/components/design-system/typography';
+import Typography from 'app/components/design-system/typography';
 import Header from '../header';
-import Button from '@/components/design-system/button';
-import Select from '@/components/design-system/select';
-import Tag from '@/components/design-system/tag/tag';
+import Button from 'app/components/design-system/button';
+import Select from 'app/components/design-system/select';
+import Tag from 'app/components/design-system/tag/tag';
 import { ExportBaseProps } from './export_base-props';
 import clsx from 'clsx';
 

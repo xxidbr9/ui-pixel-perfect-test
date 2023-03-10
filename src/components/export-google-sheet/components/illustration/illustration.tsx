@@ -1,5 +1,5 @@
 import styles from './illustration.module.css';
-import { GoogleIcon } from '@/assets/svg/icons';
+import { GoogleIcon } from 'app/assets/svg/icons';
 
 
 const Illustration = () => {

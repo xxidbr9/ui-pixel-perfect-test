@@ -1,4 +1,4 @@
-import DemoScreen from "@/layout/demo-screen/demo-screen"
+import DemoScreen from "app/layout/demo-screen/demo-screen"
 
 const App = () => {
   return <DemoScreen />

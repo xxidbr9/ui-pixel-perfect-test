@@ -1,6 +1,6 @@
-import { DatabaseIcon } from '@/assets/svg/icons'
-import Button from '@/components/design-system/button'
-import Card from '@/components/design-system/card'
+import { DatabaseIcon } from 'app/assets/svg/icons'
+import Button from 'app/components/design-system/button'
+import Card from 'app/components/design-system/card'
 import Header from '../../components/header'
 
 const DefaultTemplate = () => {

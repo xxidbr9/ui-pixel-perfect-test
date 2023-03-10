@@ -1,7 +1,7 @@
-import Card from "@/components/design-system/card"
+import Card from "app/components/design-system/card"
 import Header from "../../components/header"
-import Button from "@/components/design-system/button"
-import Typography from "@/components/design-system/typography"
+import Button from "app/components/design-system/button"
+import Typography from "app/components/design-system/typography"
 import Illustration from "../../components/illustration"
 import styles from './connect-account.module.css';
 

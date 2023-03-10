@@ -1,5 +1,5 @@
 import styles from './thumbnail.module.css';
-import { GoogleSpreadSheetsIcon } from '@/assets/svg/icons';
+import { GoogleSpreadSheetsIcon } from 'app/assets/svg/icons';
 
 
 const Thumbnail = () => {

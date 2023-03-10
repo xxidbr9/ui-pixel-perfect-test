@@ -1,7 +1,7 @@
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import Button from './button';
-import { TrashBinDeleteIcon } from '@/assets/svg/icons';
+import { TrashBinDeleteIcon } from 'app/assets/svg/icons';
 
 export default {
   title: "components/button",
