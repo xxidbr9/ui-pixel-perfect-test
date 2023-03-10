@@ -15,7 +15,7 @@ const DemoScreen = () => {
         Output/Export to Google Sheets
       </Typography.Heading>
       <div>
-        <a href='#link-deploy-storybook' target='_blank'>
+        <a href='https://ui-pixel-perfect-test.vercel.app/' target='_blank'>
           <Typography.Text>
             See Storybook
           </Typography.Text>
