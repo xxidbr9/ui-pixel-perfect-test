@@ -1,10 +1,7 @@
-import React from 'react'
-type Props = {}
+import DemoScreen from "@/layout/demo-screen/demo-screen"
 
-const App = (props: Props) => {
-  return (
-    <div>App</div>
-  )
+const App = () => {
+  return <DemoScreen />
 }
 
 export default App

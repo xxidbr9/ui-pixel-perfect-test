@@ -1,13 +1,4 @@
-
-.text-big-title {
-  font-size: 2rem;
-  font-family: "Figtree";
-  font-weight: 600;
-  font-style: normal;
-  text-decoration: none;
-  text-transform: none;
-}
-
+/* TODO: change all line-height to px */
 /* Heading */
 .text-h-1 {
   font-size: 2rem;
@@ -78,15 +69,16 @@
   text-transform: none;
 }
 .text-13-px-b {
-  font-size: 0.812rem;
+  font-size: 13px;
   font-family: "Figtree";
   font-weight: 600;
   font-style: normal;
   text-decoration: none;
   text-transform: none;
+  line-height: 16px;
 }
 .text-13-px {
-  font-size: 0.812rem;
+  font-size: 13px;
   font-family: "Figtree";
   font-weight: 500;
   font-style: normal;
@@ -95,23 +87,25 @@
   text-transform: none;
 }
 .text-11-px-sb {
-  font-size: 0.688rem;
+  font-size: 11px;
   font-family: "Figtree";
   font-weight: 600;
   font-style: normal;
+  line-height: 13px;
   text-decoration: none;
   text-transform: none;
 }
 .text-11-px {
-  font-size: 0.688rem;
+  font-size: 11px;
   font-family: "Figtree";
   font-weight: 500;
   font-style: normal;
+  line-height: 13px;
   text-decoration: none;
   text-transform: none;
 }
 .text-11-px-text {
-  font-size: 0.688rem;
+  font-size: 11px;
   font-family: "Figtree";
   font-weight: 500;
   font-style: normal;
@@ -120,7 +114,7 @@
   text-transform: none;
 }
 .text-10-px-sb {
-  font-size: 0.625rem;
+  font-size: 10px;
   font-family: "Figtree";
   font-weight: 600;
   font-style: normal;
@@ -129,10 +123,11 @@
   text-transform: none;
 }
 .text-10-px {
-  font-size: 0.625rem;
+  font-size: 10px;
   font-family: "Figtree";
   font-weight: 500;
   font-style: normal;
+  line-height: 11px;
   text-decoration: none;
   text-transform: none;
 }

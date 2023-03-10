@@ -1,0 +1,23 @@
+.select-sheet-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.form-file-name {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+}
+
+.bottom-form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  align-items: center;
+}
+
+.bottom-form > .text {
+  text-align: center;
+  color: var(--color-grays-gray-8);
+  height: 12px;
+}

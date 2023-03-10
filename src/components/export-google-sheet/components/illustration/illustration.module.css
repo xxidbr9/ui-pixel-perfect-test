@@ -1,0 +1,22 @@
+.illustration {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  -webkit-font-smoothing: inherit;
+  -moz-osx-font-smoothing: inherit;
+  -webkit-appearance: none;
+  /* sizing */
+  padding: 10px;
+  border-radius: 9999px;
+  background: var(--color-grays-gray-3);
+}
+
+.illustration > svg {
+  width: 16px;
+  height: 16px;
+}

@@ -1,0 +1,27 @@
+.error-block {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  row-gap: 12px;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  column-gap: 12px;
+}
+
+.text{
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+}
+
+.text-connection-failed {
+  color: var(--color-base-black);
+}
+
+.text-please-try-again {
+  color: var(--color-grays-gray-8);
+}

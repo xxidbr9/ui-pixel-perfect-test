@@ -1,0 +1,24 @@
+.text {
+  color: var(--color-grays-gray-8);
+  width: 23px;
+}
+
+.tag {
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 4px;
+  align-items: center;
+  border-radius: 9999px;
+  background-color: var(--color-grays-gray-3);
+  padding: 0 6px 0 12px;
+}
+
+.tag > svg {
+  width: 16px;
+  height: 16px;
+}
+
+.tag > svg > path {
+  fill: var(--color-grays-gray-8);
+}

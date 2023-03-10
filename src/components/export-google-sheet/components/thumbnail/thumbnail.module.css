@@ -1,0 +1,22 @@
+.thumbnail {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  -webkit-font-smoothing: inherit;
+  -moz-osx-font-smoothing: inherit;
+  -webkit-appearance: none;
+  /* sizing */
+  padding: 8px;
+  border-radius: 5px;
+  background: var(--color-colors-green-10);
+}
+
+.thumbnail > svg {
+  width: 16px;
+  height: 16px;
+}

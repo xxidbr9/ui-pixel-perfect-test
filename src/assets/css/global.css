@@ -41,9 +41,10 @@
   --color-code-names: rgba(169, 64, 64, 1);
 }
 
-
 /* Body Base */
 body {
   font-size: 16px;
   font-family: "Figtree", sans-serif;
+  /* fake background => figma */
+  background-color: var(--color-grays-gray-3);
 }
