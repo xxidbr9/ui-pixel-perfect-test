@@ -20,7 +20,7 @@ yarn build-storybook # build the project
 ```
 
 ## Deploy
-Live  : [https://xxidbr9.github.io/ui-pixel-perfect-test](https://xxidbr9.github.io/ui-pixel-perfect-test) <br />
+Live : [Here](https://ui-pixel-perfect-test.vercel.app/iframe.html?args=&id=layout-demo-screen--demo&viewMode=story)
 
 
 Storybook : [https://ui-pixel-perfect-test.vercel.app/](https://ui-pixel-perfect-test.vercel.app/)

@@ -14,13 +14,6 @@ const DemoScreen = () => {
       <Typography.Heading>
         Output/Export to Google Sheets
       </Typography.Heading>
-      <div>
-        <a href='https://ui-pixel-perfect-test.vercel.app/' target='_blank'>
-          <Typography.Text>
-            See Storybook
-          </Typography.Text>
-        </a>
-      </div>
       <ConnectAccountTemplate />
       <DefaultTemplate />
       <SelectingTabTemplate />
